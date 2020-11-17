@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+}
+
+h1 {
+  font-size: 32px;
+}
+#yourname {
+  color: black;
+  text-align: center;
+}
+.align {
+  text-align: center;
+}
+.jumbotron {
+  height: 500px;
+}
+.caption {
+  font-size: 41px;
+  color: #3e289c;
+}
